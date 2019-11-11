@@ -3,4 +3,6 @@
 
 ## Reading
 
-http://eloquentjavascript.net/
+- [ ] http://eloquentjavascript.net/
+- [ ] 算法导论
+
